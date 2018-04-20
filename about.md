@@ -10,8 +10,8 @@ With web apps, I seek to tie in together captivating, easy to digest UX/UI, robu
 
 ### More Information
 
-I'm always looking for a new perspective on how to optimize code and get better. I wish I had all the answers, but I don't :(. If you have any additional resources or tips, please do not hesitate to reach out!
+I'm still figuring things out and always looking for a new perspective on how to optimize code and get better. I wish I had all the answers, but I don't :(. If you have any additional resources or tips, please do not hesitate to reach out!
 
-### Contact me
+### Contact
 
-[d.khalam@gmail.com](mailto:dkcodes1@gmail.com)
+You can email me at [d.khalam@gmail.com](mailto:dkcodes1@gmail.com) or connect with me on [LinkedIn](http://linkedin.com/in/dkhalam)!
